@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/post-creator/static/css/main.7679cbbc.css",
+    "main.js": "/post-creator/static/js/main.f0ff7af6.js",
+    "index.html": "/post-creator/index.html",
+    "main.7679cbbc.css.map": "/post-creator/static/css/main.7679cbbc.css.map",
+    "main.f0ff7af6.js.map": "/post-creator/static/js/main.f0ff7af6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7679cbbc.css",
+    "static/js/main.f0ff7af6.js"
+  ]
+}
